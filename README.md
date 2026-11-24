@@ -43,9 +43,6 @@ allows the viewer to focus on selected locations.
     performance monitoring?
 
 
-# DASHBOARD 
-
-![EXCEL IMAGE](EXCEL_IMAGE.png) 
 
 ## **Data Overview**
 
@@ -89,6 +86,9 @@ The visible report includes:
 - Created calculated columns and  measures.
 - Prepared summary tables for the dashboard.
 
+# DASHBOARD 
+
+![EXCEL IMAGE](EXCEL_IMAGE.png) 
 
 # **Detailed Findings & Analysis**
 
