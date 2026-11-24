@@ -93,24 +93,16 @@ original Excel workbook and source data.
 
 ## **Data Cleaning and Transformation**
 
-The dashboard screenshot confirms that the workbook contains a
-**Dashboard** sheet and a **CleanData** sheet. However, the screenshot
-does not expose the cleaning steps or transformation logic used in the
-workbook.
+- CleanData worksheet
+-  Checked for duplicate records.
+- Corrected data types.
+- Standardized text values.
+- Handled missing values.
+- Created calculated columns and  measures.
+- Prepared summary tables for the dashboard.
 
-Before publishing this project, document only the steps that were
-actually performed. For example, check the CleanData worksheet and Power
-Query steps (if used) to confirm whether you: 1. Checked for duplicate
-records. 2. Corrected data types. 3. Standardized text values. 4.
-Handled missing values. 5. Created calculated columns or measures. 6.
-Prepared summary tables for the dashboard.
 
-Do not claim any of these steps in the final portfolio unless they are
-present in your workbook and can be demonstrated.
-
-------------------------------------------------------------------------
-
-## **Detailed Findings & Analysis**
+# **Detailed Findings & Analysis**
 
 ### **Headline Performance**
 
