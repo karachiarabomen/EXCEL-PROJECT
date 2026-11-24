@@ -181,11 +181,6 @@ The dashboard includes an **Outlet filter** slicer with outlet options.
 This interactive feature allows users to select an outlet and explore
 the dashboard at a more focused level.
 
-The screenshot shows the slicer, but does not demonstrate which
-individual charts respond to it. Confirm the slicer's connections in
-Excel before describing its exact filtering behaviour.
-
-------------------------------------------------------------------------
 
 ## **Recommendations**
 
