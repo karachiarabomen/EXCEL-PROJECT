@@ -31,12 +31,6 @@ quality, completion time, promoter performance and outlet activity. It
 presents these measures in one Excel report, with an outlet filter that
 allows the viewer to focus on selected locations.
 
-The screenshot does not include a written company brief, business
-problem statement or source-data description. This report therefore
-focuses on the information visibly presented in the dashboard and does
-not assume additional business context.
-
-------------------------------------------------------------------------
 
 ## **Objectives**
 
