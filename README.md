@@ -49,7 +49,10 @@ not assume additional business context.
 5.  How can the dashboard's outlet filter support more focused
     performance monitoring?
 
-------------------------------------------------------------------------
+
+# DASHBOARD 
+
+![EXCEL_DASHBOARD](EXCEL_DASBOARD.png) 
 
 ## **Data Overview**
 
