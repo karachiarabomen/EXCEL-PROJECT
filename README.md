@@ -1,6 +1,6 @@
 # EXCEL-PROJECT
 # **GlowRoot Naturals Field Performance Report (2026)**
-![Excel_header](Excel_header.png)
+![Excel_header](image_glow.jpg)
 
 ## **Executive Summary**
 
