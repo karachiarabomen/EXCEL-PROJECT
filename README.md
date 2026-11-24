@@ -14,10 +14,10 @@
 completed**, **15% overdue** and **10% pending**.
 
 - The outlet activity comparison highlights different strengths across the
-three outlets displayed. **Grand Square Ikeja** records the highest
-number of outlet visits (46) and product demonstrations (42), **Ebeano
-Supermarket Lekki** records the highest sales conversions (93), and
-**Justrite Yaba** records the highest number of samples distributed
+three outlets displayed.
+- **Grand Square Ikeja** records the highest number of outlet visits (46) and product demonstrations (42),
+- **Ebeano Supermarket Lekki** records the highest sales conversions (93), and
+- **Justrite Yaba** records the highest number of samples distributed
 (519).
 
 - The promoter chart shows displayed time values ranging from **28.12 to
@@ -29,7 +29,7 @@ and further investigation may be useful.
 
 ## **Business Context**
 
-GlowRoot Naturals' dashboard brings together field-task completion,
+- GlowRoot Naturals' dashboard brings together field-task completion,
 quality, completion time, promoter performance and outlet activity. It
 presents these measures in one Excel report, with an outlet filter that
 allows the viewer to focus on selected locations.
@@ -61,16 +61,16 @@ The visible report includes:
 - Promoter efficiency by time
 - Outlet activity across selected field activities
 - An interactive outlet filter.
-- 
+
 
 ## **Key Findings**
 
--   **6,498** total tasks are reported as completed.
--   The average quality score is **77%**.
--   Average completion time is displayed as **26.37**. 
--   Work completion health is **75% completed**, **15% overdue** and
+- **6,498** total tasks are reported as completed.
+- The average quality score is **77%**.
+- Average completion time is displayed as **26.37**. 
+- Work completion health is **75% completed**, **15% overdue** and
     **10% pending**.
--   Among the five promoters shown, **Ngozi Iwu** has the highest
+- Among the five promoters shown, **Ngozi Iwu** has the highest
     displayed time value at **33.33 minutes**, while **David Okonkwo**
     has the lowest at **28.12 minutes**.
 -   **Grand Square Ikeja** records the highest displayed outlet
