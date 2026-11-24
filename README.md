@@ -180,11 +180,10 @@ the dashboard at a more focused level.
 - **Microsoft Excel:** dashboard development and reporting
 - **Excel charts:** doughnut, horizontal bar and clustered column
     visualizations
-- **Excel slicer:** outlet filtering
-- PivotTables
+- **Excel slicer:** outlet filtering, - PivotTables
 - Formulas
-- Power Query
-- Data modelling
+- Power Query. 
+
 
 
 ## **Conclusion**
