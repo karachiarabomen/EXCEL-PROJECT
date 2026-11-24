@@ -40,13 +40,13 @@ not assume additional business context.
 
 ## **Objectives**
 
-1.  What are the headline field-performance indicators shown in the
+- What are the headline field performance indicators shown in the
     dashboard?
-2.  What proportion of work is completed, overdue and pending?
-3.  How do the displayed promoter time values compare?
-4.  How do outlet visits, product demonstrations, sales conversions and
-    samples distributed compare across the displayed outlets?
-5.  How can the dashboard's outlet filter support more focused
+- What proportion of work is completed, overdue and pending?
+- How do the displayed promoter time values compare?
+- How do outlet visits, product demonstrations, sales conversions and
+- samples distributed compare across the displayed outlets?
+- How can the dashboard's outlet filter support more focused
     performance monitoring?
 
 
@@ -59,24 +59,21 @@ not assume additional business context.
 The dashboard displays operational performance information for GlowRoot
 Naturals in 2026.
 
-The visible report includes: - Total tasks completed - Average quality
-score - Average completion time - Work-completion status - Promoter
-efficiency by time - Outlet activity across selected field activities -
-An interactive outlet filter
-
-The screenshot does not show the underlying dataset, reporting period
-beyond the 2026 dashboard title, total row count, field names or
-data-source details. These details should be added after checking the
-original Excel workbook and source data.
-
-------------------------------------------------------------------------
+The visible report includes:
+- Total tasks completed
+- Average quality score
+- Average completion time
+- Work-completion status
+- Promoter efficiency by time
+- Outlet activity across selected field activities
+- An interactive outlet filter.
+- 
 
 ## **Key Findings**
 
 -   **6,498** total tasks are reported as completed.
 -   The average quality score is **77%**.
--   Average completion time is displayed as **26.37**; the KPI card does
-    not show a unit.
+-   Average completion time is displayed as **26.37**. 
 -   Work completion health is **75% completed**, **15% overdue** and
     **10% pending**.
 -   Among the five promoters shown, **Ngozi Iwu** has the highest
@@ -89,12 +86,10 @@ original Excel workbook and source data.
 -   **Justrite Yaba** records the highest displayed samples distributed
     (519).
 
-------------------------------------------------------------------------
-
 ## **Data Cleaning and Transformation**
 
-- CleanData worksheet
--  Checked for duplicate records.
+- Cleaned Data worksheet
+- Checked for duplicate records.
 - Corrected data types.
 - Standardized text values.
 - Handled missing values.
@@ -106,18 +101,17 @@ original Excel workbook and source data.
 
 ### **Headline Performance**
 
-The dashboard reports **6,498 total tasks completed**, a **77% average
-quality score** and an **average completion time of 26.37**.
+The dashboard reports 
+- **6,498 total tasks completed**,
+-  a **77% average quality score** and
+- an **average completion time of 26.37**.
 
-These three KPIs provide a high-level view of field activity: - Total
-tasks completed communicates the reported volume of completed work. -
-Average quality score summarizes the quality measure used in the
-workbook. - Average completion time provides a time-based performance
-indicator.
+These three KPIs provide a high-level view of field activity: 
+- Total tasks completed communicates the reported volume of completed work.
 
-The unit and calculation method for the 26.37 average completion-time
-KPI are not visible in the screenshot. Confirm these from the workbook
-before describing the measure in more detail.
+- Average quality score summarizes the quality measure used in the
+workbook.
+- Average completion time provides a time-based performance indicator.
 
 ### **Work Completion Health**
 
