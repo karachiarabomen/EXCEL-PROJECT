@@ -76,6 +76,11 @@ The visible report includes:
 -   **Justrite Yaba** records the highest displayed samples distributed
     (519).
 
+# DASHBOARD 
+
+![EXCEL IMAGE](EXCEL_IMAGE.png) 
+
+
 ## **Data Cleaning and Transformation**
 
 - Cleaned Data worksheet
