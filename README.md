@@ -165,21 +165,13 @@ the dashboard at a more focused level.
 - **Follow up on overdue and pending work:** Review the tasks
     represented by the 15% overdue and 10% pending portions, identify
     recurring causes and assign clear follow-up actions.
-  - **Investigate the quality score:** Review the records behind the 77%
+- **Investigate the quality score:** Review the records behind the 77%
     average quality score to identify common quality gaps and
     opportunities for improvement.
-- **Clarify time-based measures:** Confirm the calculation and unit
-    for average completion time and promoter time. Use a clearly defined
-    target or benchmark before judging performance.
--  **Review outlet activity:** Compare the activity mix across Justrite
-    Yaba, Ebeano Supermarket Lekki and Grand Square Ikeja to understand
-    why their visits, demonstrations, conversions and sample
-    distribution differ.
-- **Investigate conversion performance:** Examine the activities and onditions associated with Ebeano Supermarket Lekki's 93 displayed
-    sales conversions.
-- **Use the outlet filter in operational reviews:** Filter the
-    dashboard by outlet during regular reviews to identify
-    location-specific patterns and follow-up needs.
+- **Clarify time-based measures:** Confirm the calculation and unit for average completion time and promoter time. Use a clearly defined target or benchmark before judging performance.
+-  **Review outlet activity:** Compare the activity mix across Justrite Yaba, Ebeano Supermarket Lekki and Grand Square Ikeja to understand why their visits, demonstrations, conversions and sample distribution differ.
+- **Investigate conversion performance:** Examine the activities and onditions associated with Ebeano Supermarket Lekki's 93 displayed sales conversions.
+- **Use the outlet filter in operational reviews:** Filter the dashboard by outlet during regular reviews to identify location-specific patterns and follow-up needs.
 
 
 
