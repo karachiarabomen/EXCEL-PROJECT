@@ -273,15 +273,4 @@ management report.
 
 ------------------------------------------------------------------------
 
-## **Portfolio Notes**
 
-This report is based on the values and labels visible in the supplied
-Excel dashboard screenshot. The underlying dataset and workbook
-calculations were not available for independent verification. Values and
-interpretations should be checked against the original workbook before
-publication.
-
-For a complete GitHub portfolio, include: - The original Excel workbook
-(with confidential information removed). - A clear dashboard
-screenshot. - This project report as the repository's `README.md`. - A
-short description of the dataset and confirmed cleaning steps.
