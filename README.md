@@ -75,6 +75,7 @@ The visible report includes:
     conversions (93).
 -   **Justrite Yaba** records the highest displayed samples distributed
     (519).
+    
 
 # DASHBOARD 
 
@@ -91,11 +92,6 @@ The visible report includes:
 - Created calculated columns and  measures.
 - Prepared summary tables for the dashboard.
 
-# DASHBOARD 
-
-![EXCEL IMAGE](EXCEL_IMAGE.png) 
-
-# **Detailed Findings & Analysis**
 
 ### **Headline Performance**
 
