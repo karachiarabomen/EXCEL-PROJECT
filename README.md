@@ -4,25 +4,24 @@
 
 ## **Executive Summary**
 
-The GlowRoot Naturals field performance dashboard reports **6,498 total
+- The GlowRoot Naturals field performance dashboard reports **6,498 total
 tasks completed**, an **average quality score of 77%** and an **average
 completion time of 26.37**. The work-completion chart shows **75%
 completed**, **15% overdue** and **10% pending**.
 
-The outlet activity comparison highlights different strengths across the
+- The outlet activity comparison highlights different strengths across the
 three outlets displayed. **Grand Square Ikeja** records the highest
 number of outlet visits (46) and product demonstrations (42), **Ebeano
 Supermarket Lekki** records the highest sales conversions (93), and
 **Justrite Yaba** records the highest number of samples distributed
 (519).
 
-The promoter chart shows displayed time values ranging from **28.12 to
+- The promoter chart shows displayed time values ranging from **28.12 to
 33.33 minutes** for the five promoters shown. These results provide a
 snapshot of field activity, work status and promoter performance. The
 dashboard can help managers identify where follow-up, operational review
 and further investigation may be useful.
 
-------------------------------------------------------------------------
 
 ## **Business Context**
 
