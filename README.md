@@ -1,12 +1,16 @@
 # EXCEL-PROJECT
+
 ## **GlowRoot Naturals Field Performance Report (2026)**
+
+
 ![Excel_header](image_glow.jpg)
 
 ## **Executive Summary**
 
-- The GlowRoot Naturals field performance dashboard reports **6,498 total
-tasks completed**, an **average quality score of 77%** and an **average
-completion time of 26.37**. The work-completion chart shows **75%
+- The GlowRoot Naturals field performance dashboard reports **6,498 - total tasks completed**,
+-  **average quality score of 77%** and an
+- **average completion time of 26.37**.
+- The work-completion chart shows **75%
 completed**, **15% overdue** and **10% pending**.
 
 - The outlet activity comparison highlights different strengths across the
