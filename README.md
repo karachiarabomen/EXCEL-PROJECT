@@ -143,14 +143,11 @@ values:
   Temitope Owolabi                     28.16
   David Okonkwo                        28.12
 
-Ngozi Iwu has the highest displayed value among the five promoters
-shown, followed closely by Segun Ogundipe and Peter Osagie. David
-Okonkwo has the lowest displayed value in this group.
+- **Ngozi Iwu** has the highest displayed value among the five promoters
+shown, followed closely by
+- **Segun Ogundipe** and Peter Osagie. David
+**Okonkwo** has the lowest displayed value in this group.
 
-Because the chart is expressed in minutes, a higher value may represent
-more time rather than better performance. The calculation behind the
-measure should be checked before ranking promoters as more or less
-efficient.
 
 ### **Activity Concentration by Outlet**
 
