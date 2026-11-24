@@ -197,45 +197,38 @@ Excel before describing its exact filtering behaviour.
 
 ## **Recommendations**
 
-1.  **Follow up on overdue and pending work:** Review the tasks
+- **Follow up on overdue and pending work:** Review the tasks
     represented by the 15% overdue and 10% pending portions, identify
     recurring causes and assign clear follow-up actions.
-2.  **Investigate the quality score:** Review the records behind the 77%
+  - **Investigate the quality score:** Review the records behind the 77%
     average quality score to identify common quality gaps and
     opportunities for improvement.
-3.  **Clarify time-based measures:** Confirm the calculation and unit
+- **Clarify time-based measures:** Confirm the calculation and unit
     for average completion time and promoter time. Use a clearly defined
     target or benchmark before judging performance.
-4.  **Review outlet activity:** Compare the activity mix across Justrite
+-  **Review outlet activity:** Compare the activity mix across Justrite
     Yaba, Ebeano Supermarket Lekki and Grand Square Ikeja to understand
     why their visits, demonstrations, conversions and sample
     distribution differ.
-5.  **Investigate conversion performance:** Examine the activities and
-    conditions associated with Ebeano Supermarket Lekki's 93 displayed
-    sales conversions. Confirm whether conversion rate can be calculated
-    from the available data.
-6.  **Use the outlet filter in operational reviews:** Filter the
+- **Investigate conversion performance:** Examine the activities and onditions associated with Ebeano Supermarket Lekki's 93 displayed
+    sales conversions.
+- **Use the outlet filter in operational reviews:** Filter the
     dashboard by outlet during regular reviews to identify
     location-specific patterns and follow-up needs.
 
-These recommendations are based on the patterns visible in the
-dashboard. Further investigation of the underlying records is needed
-before attributing causes.
 
-------------------------------------------------------------------------
 
 ## **Tools Used**
 
--   **Microsoft Excel:** dashboard development and reporting
--   **Excel charts:** doughnut, horizontal bar and clustered column
+- **Microsoft Excel:** dashboard development and reporting
+- **Excel charts:** doughnut, horizontal bar and clustered column
     visualizations
--   **Excel slicer:** outlet filtering
+- **Excel slicer:** outlet filtering
+- PivotTables
+- Formulas
+- Power Query
+- Data modelling
 
-Add other tools or techniques, such as PivotTables, formulas, Power
-Query or data modelling, only if they were actually used in the
-workbook.
-
-------------------------------------------------------------------------
 
 ## **Conclusion**
 
@@ -247,12 +240,6 @@ distinct activity patterns across the three outlets displayed.
 
 The project demonstrates how Microsoft Excel can be used to organize
 operational metrics into a visual report that supports performance
-monitoring and comparison. Further analysis of the underlying
-dataset---particularly the causes of overdue work, the definition of
-time-based measures and the factors behind outlet-level conversion
-differences---would help turn this snapshot into a more actionable
-management report.
-
-------------------------------------------------------------------------
+monitoring and comparison.
 
 
