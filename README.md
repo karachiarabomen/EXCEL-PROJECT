@@ -1,1 +1,287 @@
 # EXCEL-PROJECT
+# **GlowRoot Naturals Field Performance Report (2026)**
+
+------------------------------------------------------------------------
+
+## **Executive Summary**
+
+The GlowRoot Naturals field performance dashboard reports **6,498 total
+tasks completed**, an **average quality score of 77%** and an **average
+completion time of 26.37**. The work-completion chart shows **75%
+completed**, **15% overdue** and **10% pending**.
+
+The outlet activity comparison highlights different strengths across the
+three outlets displayed. **Grand Square Ikeja** records the highest
+number of outlet visits (46) and product demonstrations (42), **Ebeano
+Supermarket Lekki** records the highest sales conversions (93), and
+**Justrite Yaba** records the highest number of samples distributed
+(519).
+
+The promoter chart shows displayed time values ranging from **28.12 to
+33.33 minutes** for the five promoters shown. These results provide a
+snapshot of field activity, work status and promoter performance. The
+dashboard can help managers identify where follow-up, operational review
+and further investigation may be useful.
+
+------------------------------------------------------------------------
+
+## **Business Context**
+
+GlowRoot Naturals' dashboard brings together field-task completion,
+quality, completion time, promoter performance and outlet activity. It
+presents these measures in one Excel report, with an outlet filter that
+allows the viewer to focus on selected locations.
+
+The screenshot does not include a written company brief, business
+problem statement or source-data description. This report therefore
+focuses on the information visibly presented in the dashboard and does
+not assume additional business context.
+
+------------------------------------------------------------------------
+
+## **Objectives**
+
+1.  What are the headline field-performance indicators shown in the
+    dashboard?
+2.  What proportion of work is completed, overdue and pending?
+3.  How do the displayed promoter time values compare?
+4.  How do outlet visits, product demonstrations, sales conversions and
+    samples distributed compare across the displayed outlets?
+5.  How can the dashboard's outlet filter support more focused
+    performance monitoring?
+
+------------------------------------------------------------------------
+
+## **Data Overview**
+
+The dashboard displays operational performance information for GlowRoot
+Naturals in 2026.
+
+The visible report includes: - Total tasks completed - Average quality
+score - Average completion time - Work-completion status - Promoter
+efficiency by time - Outlet activity across selected field activities -
+An interactive outlet filter
+
+The screenshot does not show the underlying dataset, reporting period
+beyond the 2026 dashboard title, total row count, field names or
+data-source details. These details should be added after checking the
+original Excel workbook and source data.
+
+------------------------------------------------------------------------
+
+## **Key Findings**
+
+-   **6,498** total tasks are reported as completed.
+-   The average quality score is **77%**.
+-   Average completion time is displayed as **26.37**; the KPI card does
+    not show a unit.
+-   Work completion health is **75% completed**, **15% overdue** and
+    **10% pending**.
+-   Among the five promoters shown, **Ngozi Iwu** has the highest
+    displayed time value at **33.33 minutes**, while **David Okonkwo**
+    has the lowest at **28.12 minutes**.
+-   **Grand Square Ikeja** records the highest displayed outlet
+    visits (46) and product demonstrations (42).
+-   **Ebeano Supermarket Lekki** records the highest displayed sales
+    conversions (93).
+-   **Justrite Yaba** records the highest displayed samples distributed
+    (519).
+
+------------------------------------------------------------------------
+
+## **Data Cleaning and Transformation**
+
+The dashboard screenshot confirms that the workbook contains a
+**Dashboard** sheet and a **CleanData** sheet. However, the screenshot
+does not expose the cleaning steps or transformation logic used in the
+workbook.
+
+Before publishing this project, document only the steps that were
+actually performed. For example, check the CleanData worksheet and Power
+Query steps (if used) to confirm whether you: 1. Checked for duplicate
+records. 2. Corrected data types. 3. Standardized text values. 4.
+Handled missing values. 5. Created calculated columns or measures. 6.
+Prepared summary tables for the dashboard.
+
+Do not claim any of these steps in the final portfolio unless they are
+present in your workbook and can be demonstrated.
+
+------------------------------------------------------------------------
+
+## **Detailed Findings & Analysis**
+
+### **Headline Performance**
+
+The dashboard reports **6,498 total tasks completed**, a **77% average
+quality score** and an **average completion time of 26.37**.
+
+These three KPIs provide a high-level view of field activity: - Total
+tasks completed communicates the reported volume of completed work. -
+Average quality score summarizes the quality measure used in the
+workbook. - Average completion time provides a time-based performance
+indicator.
+
+The unit and calculation method for the 26.37 average completion-time
+KPI are not visible in the screenshot. Confirm these from the workbook
+before describing the measure in more detail.
+
+### **Work Completion Health**
+
+The doughnut chart shows the following distribution:
+
+  Work status     Share
+  ------------- -------
+  Completed         75%
+  Overdue           15%
+  Pending           10%
+
+The chart indicates that three-quarters of the work represented in this
+visual is completed. The remaining 25% is split between overdue and
+pending work.
+
+The overdue and pending portions identify work that may require review
+and follow-up. The screenshot does not show the underlying task counts
+for these percentages, so counts should not be calculated from the 6,498
+KPI without confirming that both visuals use the same population.
+
+### **Promoter Efficiency by Time**
+
+The chart titled **Promoter Efficiency By Time (Mins)** displays these
+values:
+
+  Promoter             Displayed time (mins)
+  ------------------ -----------------------
+  Ngozi Iwu                            33.33
+  Segun Ogundipe                       33.06
+  Peter Osagie                         32.95
+  Temitope Owolabi                     28.16
+  David Okonkwo                        28.12
+
+Ngozi Iwu has the highest displayed value among the five promoters
+shown, followed closely by Segun Ogundipe and Peter Osagie. David
+Okonkwo has the lowest displayed value in this group.
+
+Because the chart is expressed in minutes, a higher value may represent
+more time rather than better performance. The calculation behind the
+measure should be checked before ranking promoters as more or less
+efficient.
+
+### **Activity Concentration by Outlet**
+
+The activity chart compares four measures across three outlets:
+
+  -------------------------------------------------------------------------
+  Outlet         Outlet visits  Product demos          Sales        Samples
+                                                 conversions    distributed
+  ------------- -------------- -------------- -------------- --------------
+  Justrite Yaba             28             24             85            519
+
+  Ebeano                    37             25             93            495
+  Supermarket                                                
+  Lekki                                                      
+
+  Grand Square              46             42             92            386
+  Ikeja                                                      
+  -------------------------------------------------------------------------
+
+**Outlet-level observations:**
+
+-   **Justrite Yaba** has the highest displayed number of samples
+    distributed (519).
+-   **Ebeano Supermarket Lekki** has the highest displayed sales
+    conversions (93).
+-   **Grand Square Ikeja** has the highest displayed outlet visits (46)
+    and product demonstrations (42).
+-   Grand Square Ikeja records 92 sales conversions, one fewer than
+    Ebeano Supermarket Lekki.
+-   Samples distributed are highest at Justrite Yaba and lowest at Grand
+    Square Ikeja among the three outlets shown.
+
+These are comparisons of the displayed counts. A sales-conversion rate
+cannot be established from this chart alone without confirming the
+business definition and appropriate denominator.
+
+### **Outlet Filtering**
+
+The dashboard includes an **Outlet filter** slicer with outlet options.
+This interactive feature allows users to select an outlet and explore
+the dashboard at a more focused level.
+
+The screenshot shows the slicer, but does not demonstrate which
+individual charts respond to it. Confirm the slicer's connections in
+Excel before describing its exact filtering behaviour.
+
+------------------------------------------------------------------------
+
+## **Recommendations**
+
+1.  **Follow up on overdue and pending work:** Review the tasks
+    represented by the 15% overdue and 10% pending portions, identify
+    recurring causes and assign clear follow-up actions.
+2.  **Investigate the quality score:** Review the records behind the 77%
+    average quality score to identify common quality gaps and
+    opportunities for improvement.
+3.  **Clarify time-based measures:** Confirm the calculation and unit
+    for average completion time and promoter time. Use a clearly defined
+    target or benchmark before judging performance.
+4.  **Review outlet activity:** Compare the activity mix across Justrite
+    Yaba, Ebeano Supermarket Lekki and Grand Square Ikeja to understand
+    why their visits, demonstrations, conversions and sample
+    distribution differ.
+5.  **Investigate conversion performance:** Examine the activities and
+    conditions associated with Ebeano Supermarket Lekki's 93 displayed
+    sales conversions. Confirm whether conversion rate can be calculated
+    from the available data.
+6.  **Use the outlet filter in operational reviews:** Filter the
+    dashboard by outlet during regular reviews to identify
+    location-specific patterns and follow-up needs.
+
+These recommendations are based on the patterns visible in the
+dashboard. Further investigation of the underlying records is needed
+before attributing causes.
+
+------------------------------------------------------------------------
+
+## **Tools Used**
+
+-   **Microsoft Excel:** dashboard development and reporting
+-   **Excel charts:** doughnut, horizontal bar and clustered column
+    visualizations
+-   **Excel slicer:** outlet filtering
+
+Add other tools or techniques, such as PivotTables, formulas, Power
+Query or data modelling, only if they were actually used in the
+workbook.
+
+------------------------------------------------------------------------
+
+## **Conclusion**
+
+The GlowRoot Naturals Field Performance Dashboard provides a
+consolidated view of task completion, work quality, completion time,
+promoter time values and outlet activity. It highlights a 75% completed
+share in the work-health chart, differences in promoter time values and
+distinct activity patterns across the three outlets displayed.
+
+The project demonstrates how Microsoft Excel can be used to organize
+operational metrics into a visual report that supports performance
+monitoring and comparison. Further analysis of the underlying
+dataset---particularly the causes of overdue work, the definition of
+time-based measures and the factors behind outlet-level conversion
+differences---would help turn this snapshot into a more actionable
+management report.
+
+------------------------------------------------------------------------
+
+## **Portfolio Notes**
+
+This report is based on the values and labels visible in the supplied
+Excel dashboard screenshot. The underlying dataset and workbook
+calculations were not available for independent verification. Values and
+interpretations should be checked against the original workbook before
+publication.
+
+For a complete GitHub portfolio, include: - The original Excel workbook
+(with confidential information removed). - A clear dashboard
+screenshot. - This project report as the repository's `README.md`. - A
+short description of the dataset and confirmed cleaning steps.
