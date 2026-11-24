@@ -72,7 +72,7 @@ The visible report includes:
     (519).
     
 
-# DASHBOARD 
+## DASHBOARD 
 
 ![EXCEL IMAGE](EXCEL_IMAGE.png) 
 
@@ -139,41 +139,19 @@ shown, followed closely by
 - **Segun Ogundipe** and Peter Osagie. David
 **Okonkwo** has the lowest displayed value in this group.
 
-
-### **Activity Concentration by Outlet**
-
-The activity chart compares four measures across three outlets:
-
-  -------------------------------------------------------------------------
-  Outlet         Outlet visits  Product demos          Sales        Samples
-                                                 conversions    distributed
-  ------------- -------------- -------------- -------------- --------------
-  Justrite Yaba             28             24             85            519
-
-  Ebeano                    37             25             93            495
-  Supermarket                                                
-  Lekki                                                      
-
-  Grand Square              46             42             92            386
-  Ikeja                                                      
-  -------------------------------------------------------------------------
-
 **Outlet-level observations:**
 
--   **Justrite Yaba** has the highest displayed number of samples
+- **Justrite Yaba** has the highest displayed number of samples
     distributed (519).
--   **Ebeano Supermarket Lekki** has the highest displayed sales
+- **Ebeano Supermarket Lekki** has the highest displayed sales
     conversions (93).
--   **Grand Square Ikeja** has the highest displayed outlet visits (46)
+- **Grand Square Ikeja** has the highest displayed outlet visits (46)
     and product demonstrations (42).
--   Grand Square Ikeja records 92 sales conversions, one fewer than
+- Grand Square Ikeja records 92 sales conversions, one fewer than
     Ebeano Supermarket Lekki.
--   Samples distributed are highest at Justrite Yaba and lowest at Grand
+- Samples distributed are highest at Justrite Yaba and lowest at Grand
     Square Ikeja among the three outlets shown.
 
-These are comparisons of the displayed counts. A sales-conversion rate
-cannot be established from this chart alone without confirming the
-business definition and appropriate denominator.
 
 ### **Outlet Filtering**
 
