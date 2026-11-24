@@ -52,7 +52,7 @@ not assume additional business context.
 
 # DASHBOARD 
 
-![EXCEL_DASHBOARD](EXCEL_DASBOARD.png) 
+![EXCEL IMAGE](EXCEL_IMAGE.png) 
 
 ## **Data Overview**
 
