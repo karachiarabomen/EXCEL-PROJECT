@@ -1,6 +1,4 @@
-# EXCEL-PROJECT
-
-## **GlowRoot Naturals Field Performance Report (2026)**
+# **GlowRoot Naturals Field Performance Report (2026)**
 
 
 ![Excel_header](image_glow.jpg)
